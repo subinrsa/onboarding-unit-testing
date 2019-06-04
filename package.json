@@ -1,0 +1,22 @@
+{
+  "name": "onboarding-unit-testing",
+  "version": "1.0.0",
+  "description": "Basic Unit Testing",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "javascript",
+    "test",
+    "jest",
+    "unit",
+    "test",
+    "automation"
+  ],
+  "author": "Subin Shrestha",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
